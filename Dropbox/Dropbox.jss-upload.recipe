@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest Dropbox and creates a package. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.kylejericson.jss-upload.Dropbox</string>
+	<string>com.github.advisorysolutions.jss-upload.Dropbox</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

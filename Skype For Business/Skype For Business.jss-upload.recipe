@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads latest Skype for business installer and uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.kylejericson.jss-upload.SkypeForBusiness</string>
+	<string>com.github.advisorysolutions.jss-upload.SkypeForBusiness</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
